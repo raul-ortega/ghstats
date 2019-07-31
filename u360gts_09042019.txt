@@ -1,0 +1,244 @@
+GitHub Download Stats
+Author: Alexander Gorishnyak <kefir500@gmail.com>
+
+Downloading raul-ortega/u360gts stats...
+Downloaded in 0.811s
+
+          --- v10.0 ---
+
+         Tag: 10.0
+      Author: raul-ortega
+         URL: https://github.com/raul-ortega/u360gts/releases/tag/10.0
+Published at: Wed Feb 20 00:32:36 2019
+
+          203 amv-open360tracker_10.0.0_BLUEPILL.hex
+           16 amv-open360tracker_10.0.0_CC3D.hex
+           90 amv-open360tracker_10.0.0_NAZE.hex
+           23 amv-open360tracker_10.0.0_SPRACINGF3.hex
+          332 Total
+
+          --- 9.5 ---
+
+         Tag: 9.5
+      Author: raul-ortega
+         URL: https://github.com/raul-ortega/u360gts/releases/tag/9.5
+Published at: Fri Nov 16 01:06:27 2018
+
+           23 amv-open360tracker_9.5.0_CC3D.hex
+           57 amv-open360tracker_9.5.0_NAZE.hex
+           28 amv-open360tracker_9.5.0_SPRACINGF3.hex
+          108 Total
+
+          --- 9.4 ---
+
+         Tag: 9.4
+      Author: raul-ortega
+         URL: https://github.com/raul-ortega/u360gts/releases/tag/9.4
+Published at: Mon Oct  8 00:14:25 2018
+
+           17 amv-open360tracker_9.4.0_CC3D.hex
+           32 amv-open360tracker_9.4.0_NAZE.hex
+           16 amv-open360tracker_9.4.0_SPRACINGF3.hex
+           65 Total
+
+          --- 9.3 ---
+
+         Tag: 9.3
+      Author: raul-ortega
+         URL: https://github.com/raul-ortega/u360gts/releases/tag/9.3
+Published at: Fri Apr 13 09:45:43 2018
+
+           84 amv-open360tracker_NAZE-9.3.hex
+           84 Total
+
+          --- 9.2.4 ---
+
+         Tag: 9.2.4
+      Author: raul-ortega
+         URL: https://github.com/raul-ortega/u360gts/releases/tag/9.2.4
+Published at: Wed Dec  6 00:32:33 2017
+
+           82 amv-open360tracker_NAZE-9.2.4.hex
+           82 Total
+
+          --- 9.2.3 ---
+
+         Tag: 9.2.3
+      Author: raul-ortega
+         URL: https://github.com/raul-ortega/u360gts/releases/tag/9.2.3
+Published at: Wed Nov 22 01:51:37 2017
+
+           22 amv-open360tracker_NAZE-9.2.3.hex
+           22 Total
+
+          --- 9.2.2 ---
+
+         Tag: 9.2.2
+      Author: raul-ortega
+         URL: https://github.com/raul-ortega/u360gts/releases/tag/9.2.2
+Published at: Sat Nov 11 22:55:39 2017
+
+           18 amv-open360tracker_NAZE-9.2.2.hex
+           18 Total
+
+          --- 9.2.1 ---
+
+         Tag: 9.2.1
+      Author: raul-ortega
+         URL: https://github.com/raul-ortega/u360gts/releases/tag/9.2.1
+Published at: Thu Nov  2 00:14:40 2017
+
+           15 amv-open360tracker_NAZE-9.2.1.hex
+           15 Total
+
+          --- 9.2.0 ---
+
+         Tag: 9.2.0
+      Author: raul-ortega
+         URL: https://github.com/raul-ortega/u360gts/releases/tag/9.2.0
+Published at: Fri Jun 23 22:00:55 2017
+
+           91 amv-open360tracker_NAZE-9.2.0.hex
+           91 Total
+
+          --- 9.1.0 ---
+
+         Tag: 9.1.0
+      Author: raul-ortega
+         URL: https://github.com/raul-ortega/u360gts/releases/tag/9.1.0
+Published at: Tue Jun 13 20:39:11 2017
+
+           11 amv-open360tracker_NAZE-9.1.0.hex
+           11 Total
+
+          --- 9.0.3 ---
+
+         Tag: 9.0.3
+      Author: raul-ortega
+         URL: https://github.com/raul-ortega/u360gts/releases/tag/9.0.3
+Published at: Wed May 31 20:02:53 2017
+
+           13 amv-open360tracker_NAZE.9.0.3.hex
+           13 Total
+
+          --- 9.0.1 ---
+
+         Tag: 9.0.1
+      Author: raul-ortega
+         URL: https://github.com/raul-ortega/u360gts/releases/tag/9.0.1
+Published at: Sun May  7 12:13:11 2017
+
+           23 amv-open360tracker_NAZE-9.0.1.hex
+           23 Total
+
+          --- 8.1.0 ---
+
+         Tag: 8.1.0
+      Author: raul-ortega
+         URL: https://github.com/raul-ortega/u360gts/releases/tag/8.1.0
+Published at: Wed May  3 23:06:02 2017
+
+           12 amv-open360tracker_NAZE-8.1.0.hex
+           12 Total
+
+          --- 8.0.1 ---
+
+         Tag: 8.0.1
+      Author: raul-ortega
+         URL: https://github.com/raul-ortega/u360gts/releases/tag/8.0.1
+Published at: Sat Apr  1 23:47:14 2017
+
+            9 amv-open360tracker_NAZE-8.0.1.hex
+            9 Total
+
+          --- 8.0.0 ---
+
+         Tag: 8.0.0
+      Author: raul-ortega
+         URL: https://github.com/raul-ortega/u360gts/releases/tag/8.0.0
+Published at: Mon Jan 30 21:51:05 2017
+
+           24 amv-open360tracker_NAZE-8.0.0.hex
+           24 Total
+
+          --- Stable 7.3.3 ---
+
+         Tag: 7.3.3
+      Author: raul-ortega
+         URL: https://github.com/raul-ortega/u360gts/releases/tag/7.3.3
+Published at: Mon Dec 26 16:22:46 2016
+
+           21 amv-open360tracker_NAZE-7.3.3.hex
+           21 Total
+
+          --- Stable 7.3.0 ---
+
+         Tag: 7.3.0
+      Author: raul-ortega
+         URL: https://github.com/raul-ortega/u360gts/releases/tag/7.3.0
+Published at: Tue Dec 20 21:08:13 2016
+
+           10 amv-open360tracker_NAZE-7.3.0.hex
+           10 Total
+
+          --- Stable 7.2.2 ---
+
+         Tag: 7.2.2
+      Author: raul-ortega
+         URL: https://github.com/raul-ortega/u360gts/releases/tag/7.2.2
+Published at: Tue Dec 20 21:03:45 2016
+
+            3 amv-open360tracker_NAZE-7.2.2.hex
+            3 Total
+
+          --- Stable 7.2.1 ---
+
+         Tag: 7.2.1
+      Author: raul-ortega
+         URL: https://github.com/raul-ortega/u360gts/releases/tag/7.2.1
+Published at: Tue Dec 20 21:00:19 2016
+
+            4 amv-open360tracker_NAZE-7.2.1.hex
+            4 Total
+
+          --- Development 7.2.0 ---
+
+         Tag: 7.2.0
+      Author: raul-ortega
+         URL: https://github.com/raul-ortega/u360gts/releases/tag/7.2.0
+Published at: Tue Dec 20 20:56:43 2016
+
+            4 amv-open360tracker_NAZE-7.2.0.hex
+            4 Total
+
+          --- Development 7.1.0 ---
+
+         Tag: 7.1.0
+      Author: raul-ortega
+         URL: https://github.com/raul-ortega/u360gts/releases/tag/7.1.0
+Published at: Tue Dec 20 20:54:23 2016
+
+            3 amv-open360tracker_NAZE-7.1.0.hex
+            3 Total
+
+          --- Stable 7.0.1  ---
+
+         Tag: 7.0.1
+      Author: raul-ortega
+         URL: https://github.com/raul-ortega/u360gts/releases/tag/7.0.1
+Published at: Tue Dec 20 20:49:33 2016
+
+            3 amv-open360tracker_NAZE-7.0.1.zip
+            3 Total
+
+          --- Stable 6.0.8 ---
+
+         Tag: 6.0.8
+      Author: raul-ortega
+         URL: https://github.com/raul-ortega/u360gts/releases/tag/6.0.8
+Published at: Tue Dec 20 20:46:52 2016
+
+            5 amv-open360tracker_NAZE-6.0.8.hex
+            5 Total
+
+Total Downloads: 962

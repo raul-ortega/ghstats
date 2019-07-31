@@ -1,0 +1,61 @@
+GitHub Download Stats
+Author: Alexander Gorishnyak <kefir500@gmail.com>
+
+Downloading raul-ortega/u360gts-configurator stats...
+Downloaded in 0.686s
+
+          --- u360gts configurator v3.0 ---
+
+         Tag: 3.0
+      Author: raul-ortega
+         URL: https://github.com/raul-ortega/u360gts-configurator/releases/tag/3.0
+Published at: Mon Apr  8 20:05:23 2019
+
+            2 u360gts-Configurator_macOS_3.0.zip
+            0 u360gts-configurator_win32_3.0.zip
+            6 u360gts-configurator_win64_3.0.zip
+            8 Total
+
+          --- u360gts configurator v2.5 ---
+
+         Tag: 2.5
+      Author: raul-ortega
+         URL: https://github.com/raul-ortega/u360gts-configurator/releases/tag/2.5
+Published at: Thu Feb 21 23:15:44 2019
+
+           20 u360gts-configurator_win32_2.5.zip
+          104 u360gts-configurator_win64_2.5.zip
+          124 Total
+
+          --- u360gts configurator v2.4.2 ---
+
+         Tag: 2.4.2
+      Author: raul-ortega
+         URL: https://github.com/raul-ortega/u360gts-configurator/releases/tag/2.4.2
+Published at: Fri Apr 13 01:36:27 2018
+
+           27 u360gts-configurator_win32_2.4.2.zip
+          115 u360gts-configurator_win64_2.4.2.zip
+          142 Total
+
+          --- u360gts configurator  v2.4.1 ---
+
+         Tag: 2.4.1
+      Author: raul-ortega
+         URL: https://github.com/raul-ortega/u360gts-configurator/releases/tag/2.4.1
+Published at: Wed Dec 27 00:12:14 2017
+
+           21 u360gts-configurator_win32_2.4.1.zip
+           54 u360gts-configurator_win64_2.4.1.zip
+           75 Total
+
+          --- u360gts configurator v2.0 ---
+
+         Tag: 2.0
+      Author: raul-ortega
+         URL: https://github.com/raul-ortega/u360gts-configurator/releases/tag/2.0
+Published at: Wed Feb  1 22:03:18 2017
+
+            0 Total
+
+Total Downloads: 349
